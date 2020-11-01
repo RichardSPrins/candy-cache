@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "candy-cache-2020",
+  "private_key_id": "7392e4678dee09fdfb14d94603d79f527cc5c5cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDLnQt0QhtIA1vF\n3WmwD6Zp97Nl8U6kfX2n6dFW6v8BSakcNF6FU92UuSl/gNLE9C8VLd4PvTWY3ypD\nbKvlBbqlJ08N4n6ScDpYVqJPZF84efFlV9S1GTnst2cqwPRFl7XKtV9ocxmm9QQm\nuH+DQ5uyQIH8qwy71JnK8q9gB6zUK3sCEN9PlLtdhDC5L9GUrceHsIjnDuZ2wbbn\nWjfQdS+o+cSb5Xj3ja90KOs6aXZV29WcnY7g6t/WqJapbk08SxBMYuC6FSoC6zvz\nEwSmeSx9UR2GV/deZLVmXW5YKj6Zz2paKZjohR1yxPpWhmbG4hzBk91nwGb3zdW2\nHtY2HJqJAgMBAAECgf80nWPi/86UCbvpvknGlShEechJBNWtlnjedbt0b74ZGqUU\n6EjLpBWhqprgYntp1EwPPsd0+4GFNLQBzaTkxgRxhV36EW0qxpVpjKQy2LJe2weQ\npQGc2Mfw3/O+KlARZJDgIqG6NMsaZD05C16vEFsu8R/7NWLfpqJB2fuM5uCbHTl0\nt7o4kOFhjHtPKjX8P0FmRkDWX0Ms75wcuGZNslGrFwjLYt7MqaRDb1tXpx//LgXM\nQFD5gUtJQNSdfG3j9tYH2C/qUQj/EmhRxavABuUZFQZJzhEHh9RuGGhXjzz8lD13\ncScm6TTxW2BpFJfqval7E13eSxKK13ByJDVtskECgYEA584YseSrAQ/VQtR58iXy\naS2N1AzLbvTpX+1qvNRb5EURLLqnMWiym2JEdmWlsOsTNxLp5Twgo7Wig7GG5ttC\nYuFQlXhuHv9ABGdWbHvJ934UYxBcXFm1e9MTqUa/4XZmKfAxYoCDe2J/AW0lgeO9\nVYiPO7kn4kfUmj0uZ5vWVsECgYEA4N2o44l9JDruSp7BTAM875okDNWxiDMW7S0C\nFcsVwbpdTSJRC3LHhvInSH2oAJr/lOVpDJQ6cPb4nZvmJyp2XBBz+HJ+p8SH9ExR\nZ8LwN8rQizwBATBGNZbNfRLVLBpjzj0VlHokClzHPEwr8AXqKAZGM+5d1xLhK72j\nkORGvckCgYAFh0HJhFWbud/xLxYVc1g7r+1xADkd1VN3iTcBd+MVJ5yIP49bO07/\nK7HMTRJNjN2xc48Ge4+ft+Y/U82O1e3YY91DI1MlBBtnv3stLSqc73HXBv3c6frN\nEDSo1dofq242U9cprTz1hVzYEN1TIrZSQuZ/myPbXrEwWIMxz2KmQQKBgHOco3ux\nMb0R63hEHT/WnlrWVlie+fL7yXrR3DOWQa5kAhppXV/UeI+CKv5TVLBTALruJE+K\nWm3AHNzzzaYvZ8E32FhRjZr2KaxKHMSLbnRQ+13K0P1qc36T9TysFRviyZO8xj6b\nebI2N11iEGkMsXI4n5mNoYO1uj2B9/nD1Dc5AoGBAMDW7DtwIFHC9e2YC0bjQ6tx\nf57IiJHOuJxTJTJlPk/ist0pA1WD9aJrv80krw0O8bFAwkog36LGN1U5mEU6y7+1\nMIhUkU7Fj0+7t+9Sj134/b5d+CFdEOPO69b1Oqp3CEXYwu3BVYMlWyLCAtLcf7Tt\ntbrXXnhT55WFZTcjQ8FN\n-----END PRIVATE KEY-----\n",
+  "client_email": "candy-cache@candy-cache-2020.iam.gserviceaccount.com",
+  "client_id": "111014115884652080144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/candy-cache%40candy-cache-2020.iam.gserviceaccount.com"
+}
