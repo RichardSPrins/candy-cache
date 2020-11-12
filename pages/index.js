@@ -5,7 +5,6 @@ import { Button } from '@chakra-ui/core'
 import React from 'react'
 import Tabletop from 'tabletop'
 
-const API = 'https://sheets.googleapis.com/v4/spreadsheets/1I0hXj_tksgWYPvkHWboxvi6KfpMFM_uOEStnloCGDL0/values:batchGet?ranges=Sheet1&majorDimension=ROWS&key=AIzaSyDKkFDfjmrjL7IMBvmpfhi5sibXE1HOi30';
 
 
 export default function Home() {
